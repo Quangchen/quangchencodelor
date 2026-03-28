@@ -1,1 +1,1 @@
-Nsokudo:sv1.nsokudo.com:11325:0:0,LOCAL:127.0.0.1:14444:0:1
+Nsokudo:sv1.nsokudo.com:11325:0:1,LOCAL:127.0.0.1:14444:0:1
